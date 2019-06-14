@@ -19,6 +19,6 @@ footer .fab{
     color:black;
 }
 
-a:hover{
+footer .fab a:hover{
     text-decoration: none;
 }
