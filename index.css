@@ -9,8 +9,12 @@
 }
 
 .img-thumbnail{
-    height: 225px;
-    margin : 3% 3%;
+    height: 240px;
+    padding : 3% 10 3% 5%;
+}
+
+.row{
+    margin: 3% 1%;
 }
 
 footer .fab{

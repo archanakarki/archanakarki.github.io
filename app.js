@@ -1,11 +1,3 @@
-// const videos = document.querySelectorAll('video');
-
-// videos.forEach(video => {
-//     video.addEventListener("mouseover", function(){
-//         this.play();
-//     });
-
-//     video.addEventListener('mouseout', function(){
-//         this.paused();
-//     })
-// })
+$('img').hover(function(){
+    $(this).attr('width', '400px');
+});
