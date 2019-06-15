@@ -1,12 +1,36 @@
- #navbar {
-    background-color:#0D5BE8;
+
+ body{
+    font-family: 'Roboto', sans-serif;
+ }
+ 
+#text{
+    padding: 0% 8%;
+    text-align: justify;
 }
 
-#intro{
-    background-color: #0D5BE8;
+.img-thumbnail{
+    height: 240px;
+    padding : 3% 10 3% 5%;
 }
 
+.row{
+    margin: 4% 1%;
+}
 
-#intro a{
-    color:white;
+footer .fab{
+    display: inline;
+    margin: 1% 2%;
+    color:black;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+
+.card-body{
+    border: none;
 }
